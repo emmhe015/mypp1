@@ -77,6 +77,11 @@
   #cover-text > h2, #cover-text > h3 {
     color:antiquewhite
   }
+
+  #about > h2, #about > p {
+    text-align: center;
+    
+  }
   
   /* Footer */
   #social-networks {
