@@ -82,6 +82,16 @@
     text-align: center;
     
   }
+  /* Practice section with image */
+  #practice > h2 {
+    text-align: center;
+  }
+  #practice > ol {
+    float: right;
+  }
+  img {
+    width: 50%;
+  }
   
   /* Footer */
   #social-networks {
