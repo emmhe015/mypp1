@@ -88,6 +88,8 @@
   }
   #practice > ol {
     float: right;
+    padding-top: 100px;
+    font-size: 130%;
   }
   img {
     width: 50%;
