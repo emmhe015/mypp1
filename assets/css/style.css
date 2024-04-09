@@ -141,3 +141,8 @@
       text-align: left;
     }
   }
+  @media screen and (max-width: 550px) {
+    #cover-text {
+      width: 50%;
+    }
+  }
