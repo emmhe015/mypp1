@@ -15,7 +15,7 @@ The Mindful Peace website is for users who wants to know more about mindfulness 
     - The main content includes a _hero image_ that reminds the user to slown down.
     - It contains a short _About us_ section with a little information about the creator of the website and the function of the site. 
     - Under the About section is a _Sign Up_ form for the newsletter. Name and email is requiered.
-    - The sign up form follows by a section of a simple _Practice_ with a image and an ordered list. 
+    - The sign up form follows by a section of a simple _Practice_ with music, image and an ordered list. 
     - The _Footer_ is at the bottom, with links to different social media websites that opens in a new tab. 
 ## Testing
 - I confirm that the links in the nav, newsletter sign up form and the footer is working correctly. 
@@ -51,4 +51,5 @@ When I tested the website in HTML validator (W3C), the result showed following e
 - The images in the index.hmtl is from https://www.canva.com/
 - Navbar code is from https://www.w3schools.com/
 - The icons in the footer is from https://fontawesome.com/ 
+- The Audio file is from https://www.jamendo.com/playlist/500607433/time-to-dream 
 - I followed instructions from the Love Running project.
