@@ -14,7 +14,7 @@ The Mindful Peace website is for users who wants to know more about mindfulness 
 - **Main content**
     - The main content includes a _hero image_ that reminds the user to slown down.
     - It contains a short _About us_ section with a little information about the creator of the website and the function of the site. 
-    - Under the About section is a link to a sign up form to the newsletter. The _Sign Up form_ is on a seperate page. If I would have more time, I would do a more detailed and attractive design to the Sign Up form. 
+    - Under the About section is a _Sign Up_ form for the newsletter. Name and email is requiered.
     - The sign up form follows by a section of a simple _Practice_ with a image and an ordered list. 
     - The _Footer_ is at the bottom, with links to different social media websites that opens in a new tab. 
 ## Testing
