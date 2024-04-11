@@ -4,7 +4,7 @@
 
 The Mindful Peace website is for users who wants to know more about mindfulness and learn a simple practice. 
 
-<img src="./assets/images/Screenshot 2024-04-11 10.22.39.png">
+<img src="./assets/images/responsive.png">
 
 ## Features
 - **Navigation**
@@ -23,21 +23,21 @@ The Mindful Peace website is for users who wants to know more about mindfulness 
 
 ## Bugs 
 When I tested the website in HTML validator (W3C), the result showed following errors:
-<img src="./assets/images/html error 1.png">
-<img src="./assets/images/html error 2.png">
+<img src="./assets/images/html-error-1.png">
+<img src="./assets/images/html-error-2.png">
  - I went back and fixed the errors, tested again and got the following result;
-<img src="./assets/images/hmtl error second.png">
+<img src="./assets/images/hmtl-error-second.png">
 - Went back and fixed the errors that were remaining and got this result;
-<img src="./assets/images/hmtl clear.png">
+<img src="./assets/images/hmtl-clear.png">
 
 ## Validator Testing
  ### CSS Validation
- <img src="./assets/images/css validation.png">
+ <img src="assets/images/css-validation.png">
 
  ### HTML Validation
- <img src="./assets/images/hmtl clear.png">
+ <img src="./assets/images/hmtl-clear.png">
 
- ### Lighthouse testing <img src="./assets/images/Screenshot 2024-04-11 09.16.27.png"/>
+ ### Lighthouse testing <img src="./assets/images/lighthouse.png"/>
 
 ## Deployment
 1. Select project, go to the Settings tab of your GitHub repository.
