@@ -52,4 +52,6 @@ When I tested the website in HTML validator (W3C), the result showed following e
 - Navbar code is from https://www.w3schools.com/
 - The icons in the footer is from https://fontawesome.com/ 
 - The Audio file is from https://www.jamendo.com/playlist/500607433/time-to-dream 
+- The section of Deployment in this ReadMe is from https://github.com/joelsita/project-one?tab=readme-ov-file#testing  
 - I followed instructions from the Love Running project.
+- Many thanks to my mentor Spence for all the support!
