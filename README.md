@@ -37,7 +37,7 @@ When I tested the website in HTML validator (W3C), the result showed following e
  ### HTML Validation
  <img src="./assets/images/hmtl-clear.png">
 
- ### Lighthouse testing <img src="./assets/images/lighthouse.png"/>
+ ### Lighthouse testing <img src="./assets/images/lighthouse3.png"/>
 
 ## Deployment
 1. Select project, go to the Settings tab of your GitHub repository.
