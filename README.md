@@ -50,4 +50,5 @@ When I tested the website in HTML validator (W3C), the result showed following e
 ## Credits
 - The images in the index.hmtl is from https://www.canva.com/
 - Navbar code is from https://www.w3schools.com/
+- The icons in the footer is from https://fontawesome.com/ 
 - I followed instructions from the Love Running project.
