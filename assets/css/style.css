@@ -146,6 +146,58 @@
 .home-link:hover {
   background-color: #256526;
 }
+
+/* Video.html */
+
+/* General body styling */
+.video {
+  font-family: 'Arial', sans-serif;
+  background-color: #f0f4f3;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+/* Container styling */
+.containervideo {
+  width: 90%;
+  max-width: 1000px;
+  background-color: #ffffff;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Header styling */
+.containervideo h1 {
+  text-align: center;
+  color: #2e7d32;
+  margin-bottom: 30px;
+}
+
+/* Video section styling */
+.video-section {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+/* Video item styling */
+.video-item {
+  text-align: center;
+}
+
+.video-item p {
+  color: #555555;
+  font-size: 16px;
+  margin-top: 10px;
+  line-height: 1.4;
+}
+
+
   /* Footer */
   #social-networks {
     background-color: #04AA6D;
