@@ -81,10 +81,20 @@
 
   #about > h2, #about > p {
     text-align: center;
-    
+  }
 
+  #newsletter{
+    margin: auto;
+    width: 50%;
   }
   /* Practice section with image */
+ #practice > audio {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+ }
+
   #practice > h2 {
     text-align: center;
   }
