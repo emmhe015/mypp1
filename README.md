@@ -9,13 +9,14 @@ The Mindful Peace website is for users who wants to know more about mindfulness 
 ## Features
 - **Navigation**
     - At the top of the page is the navigation bar. The Mindful Peace is to the left and links to the start of the page. 
-    - The other navigation links is About, Practice, Sign Up and Contact. It directs the users to the diffrent sections and sign up page.  
+    - The other navigation links is About, Practice, Sign Up, Yoga videos and Contact. It directs the users to the diffrent sections and sign up page.  
         
 - **Main content**
     - The main content includes a _hero image_ that reminds the user to slown down.
     - It contains a short _About us_ section with a little information about the creator of the website and the function of the site. 
     - Under the About section is a _Sign Up_ form for the newsletter. Name and email is requiered.
-    - When submitted to newsletter, you are beeing redirected to a thank you page. 
+    - When submitted to newsletter, you are beeing redirected to a _Thank you_ page, thanks.html.
+    This side has a "back to homepage" button.  
     - The sign up form follows by a section of a simple _Practice_ with music, image and an ordered list. 
     - The _Footer_ is at the bottom, with links to different social media websites that opens in a new tab, is also found in the videos.html file.  
     - The _Yoga videos_ or videos.html is based upon three different yoga videos. Each one depending on which time of the day it is. 
